@@ -1,6 +1,6 @@
 Batch_Table V1.0
 
-Python command line scriptthat allows the user to input a fasta file, and retrieve all the protein names, source organisms,
+Python command line script that allows the user to input a fasta file, and retrieve all the protein names, source organisms,
 protein lengths, and organism descriptions in a | separated txt file for further analysis.
 
 
